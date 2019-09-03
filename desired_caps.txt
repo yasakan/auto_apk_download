@@ -1,0 +1,5 @@
+        "platformName": "Android",
+        "platformVersion": "10",
+        "deviceName": "emulator-5554",
+        "appPackage": "com.android.vending",
+        "appActivity": "com.google.android.finsky.activities.MainActivity"
